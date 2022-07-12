@@ -1,0 +1,9 @@
+Como enviar arquivos para o repositório remoto:
+
+-abrir o git bash na pasta criada no computador;
+-git clone (copiar o caminho do repositório remoto criado no github);
+-cd (nome repositório);
+-git add . ;
+-git commit -m " ".
+
+
