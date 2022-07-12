@@ -4,6 +4,8 @@ Como enviar arquivos para o repositório remoto:
 -git clone (copiar o caminho do repositório remoto criado no github);
 -cd (nome repositório);
 -git add . ;
--git commit -m " ".
+-git commit -m " ";
+-git push origin main.
+
 
 
